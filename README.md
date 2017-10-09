@@ -1,3 +1,5 @@
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FHartmarken%2FjGravity.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2FHartmarken%2FjGravity?ref=badge_shield)
+
 jGravity
 ========
 
@@ -91,3 +93,7 @@ MORE
 ========
 
 You can find more here: http://tinybigideas.com/plugins/jquery-gravity/
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FHartmarken%2FjGravity.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2FHartmarken%2FjGravity?ref=badge_large)
